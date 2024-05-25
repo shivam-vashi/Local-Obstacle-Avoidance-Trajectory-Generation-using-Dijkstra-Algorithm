@@ -19,6 +19,10 @@ $ cd path_to_folder/
 $ python3 Djikstra_Planner.py
 ```
 
-## Deploying the Code on a Self-Driving SUV
+## Output
+![Introduction Image](Graph_Example.png)
+
+
+## Demonstration of the code deployed on a Self-Driving SUV
 
 ![Introduction Video](Deployment_on_a_Self_Driving_SUV.gif)
