@@ -1,4 +1,5 @@
 # Local-Obstacle-Avoidance-Trajectory-Generation-using-Dijkstra-Algorithm
+Refer the Project_presentation.pptx and Project_Report.pdf files for detailed explanation of the algorithm developed. 
 
 ## Motivation
 
