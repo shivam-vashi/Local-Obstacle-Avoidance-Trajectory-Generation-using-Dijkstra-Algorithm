@@ -20,9 +20,11 @@ $ python3 Djikstra_Planner.py
 ```
 
 ## Output
-![Introduction Image](Graph_Example.png)
+<img src="Graph_Example.png" width="550" height = "350" alt="Output from the Code- Graph_example.png">
+<!--    ![Introduction Image](Graph_Example.png)    -->
 
 
 ## Demonstration of the code deployed on a Self-Driving SUV
 
-![Introduction Video](Deployment_on_a_Self_Driving_SUV.gif)
+<img src="Deployment_on_a_Self_Driving_SUV.gif" width="550" height = "333.33" alt="Deployment_on_a_Self_Driving_SUV.gif">
+<!--    ![Introduction Video](Deployment_on_a_Self_Driving_SUV.gif)   -->
