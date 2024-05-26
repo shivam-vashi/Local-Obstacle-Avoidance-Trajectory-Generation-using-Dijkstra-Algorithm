@@ -1,10 +1,12 @@
 # Local-Obstacle-Avoidance-Trajectory-Generation-using-Dijkstra-Algorithm
 
-## Motivation
+## References
 
 [1] Kornev, Ivan & Kibalov, Vladislav & Shipitko, Oleg. (2020). Local Path Planning Algorithm for Autonomous Vehicle Based on Multi-objective Trajectory Optimization in State Lattice.
 
 [2] M. Werling, J. Ziegler, S. Kammel and S. Thrun, "Optimal trajectory generation for dynamic street scenarios in a Frenét Frame," 2010 IEEE International Conference on Robotics and Automation, Anchorage, AK, USA, 2010, pp. 987-993, doi: 10.1109/ROBOT.2010.5509799.
+
+[3] Sakai, A., Ingram, D., Dinius, J., Chawla, K., Raffin, A., and Paques, A., “PythonRobotics: a Python code collection of robotics algorithms”, <i>arXiv e-prints</i>, 2018. doi:10.48550/arXiv.1808.10703.
 
 ## Overview
 The graph search method from [1] is upgraded by incorporating the path generation technique outlined in [2]. This enhancement introduces jerk-minimizing edges in the graph, contrasting with the previous method's reliance on cubic polynomials without considering any optimality features.
