@@ -12,7 +12,7 @@ The graph search method from [1] is upgraded by incorporating the path generatio
 Refer the Project_presentation.pdf and Project_Report.pdf files for detailed explanation of the algorithm developed. 
 
 
-## Running the Code
+## Running the Code (Linux)
 
 ```bash
 $ cd path_to_folder/
